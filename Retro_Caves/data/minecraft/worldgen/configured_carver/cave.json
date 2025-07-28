@@ -37,30 +37,6 @@
     "lava_level": {
       "above_bottom": 8
     },
-    "debug_settings": {
-      "air_state": {
-        "Name": "minecraft:crimson_button",
-        "Properties": {
-          "powered": "false",
-          "facing": "north",
-          "face": "wall"
-        }
-      },
-      "water_state": {
-        "Name": "minecraft:candle",
-        "Properties": {
-          "waterlogged": "false",
-          "lit": "false",
-          "candles": "1"
-        }
-      },
-      "lava_state": {
-        "Name": "minecraft:orange_stained_glass"
-      },
-      "barrier_state": {
-        "Name": "minecraft:glass"
-      }
-    },
     "horizontal_radius_multiplier": {
       "type": "minecraft:uniform",
       "value": {
