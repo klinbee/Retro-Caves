@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "description": [
+      "§aBrings back ",
+      "§6Retro Cave ",
+      "§astyle and distribution scaled up"
+    ],
+    "pack_format": 15,
+    "supported_formats": [15, 999]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [41, 999],
+        "directory": "overlay_1_20_5"
+      }
+    ]
+  }
+}
