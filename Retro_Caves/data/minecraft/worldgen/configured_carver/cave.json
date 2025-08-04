@@ -1,4 +1,5 @@
 {
+  "": "Probability and range modeled after relative Pre1.18 values",
   "type": "minecraft:cave",
   "config": {
     "replaceable": "#minecraft:overworld_carver_replaceables",
