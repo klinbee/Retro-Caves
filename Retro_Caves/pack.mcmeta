@@ -1,9 +1,16 @@
 {
   "pack": {
     "description": [
-      "§aBrings back ",
-      "§6Retro Cave ",
-      "§astyle and distribution scaled up"
+      "§aBrings back §6Retro-style Caves",
+      "\n",
+      {
+        "text": "Made by ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "Klinbee",
+        "color": "#ffbbbb"
+      }
     ],
     "pack_format": 15,
     "supported_formats": [15, 999]
